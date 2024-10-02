@@ -1,1 +1,0 @@
-Ligação interna com banco de dados utilizando Lista
